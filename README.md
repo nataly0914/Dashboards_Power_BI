@@ -10,3 +10,6 @@ A continuación, se encuentran los respectivos enlaces para los Dashboards const
 
 4. Reporte de ventas y margen de ventas 2019
 (https://public.tableau.com/views/Proyectosventas1/Dashboard1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+
+5. Reporte mundial COVID-19 - 01 de mayo de 2020
+(https://public.tableau.com/views/COVID-19-01May20/Historia1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
